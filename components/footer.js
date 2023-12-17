@@ -59,9 +59,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Tu solución todo en uno para pedidos y transporte. Haz pedidos y
-              solicita transporte de forma fácil y segura con Qiero, la
-              aplicación que simplifica tu vida cotidiana.
+              Red social de servicios donde solucionas todo con un clic.
             </div>
           </div>
 

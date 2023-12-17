@@ -42,12 +42,12 @@ const faqdata = [
   {
     question: "¿Cómo puedo realizar un pedido de productos en Qiero?",
     answer:
-      "Para hacer un pedido de productos, simplemente ingresa el nombre del producto que deseas y la tarifa que ofreces. Luego, presiona el botón “Buscar”. Y espera a que un proveedor acepte tu solicitud.",
+      "Para hacer un pedido de productos, simplemente ingresa el nombre del producto que deseas y la tarifa que ofreces. Luego, presiona el botón “Buscar”. Y espera a que un Miembro Qiero acepte tu solicitud.",
   },
   {
     question: "¿Cómo funcionan las opciones de transporte en Qiero?",
     answer:
-      "Puedes solicitar transporte privado a través de Qiero. Selecciona tu ubicación de recogida y destino, elige el tipo de vehículo y confirma tu solicitud. Y espera a que un conductor acepte tu solicitud..",
+      "Puedes solicitar transporte privado a través de Qiero. Selecciona tu ubicación de recogida y destino, ingresa la tarifa que ofreces y confirma tu solicitud. Y espera a que un conductor acepte tu solicitud..",
   },
   {
     question: "¿Es seguro utilizar Qiero?",

@@ -10,7 +10,7 @@ const Terms = () => {
         <title>Qiero - Términos y Condiciones</title>
         <meta
           name="description"
-          content="Qiero: Tu solución todo en uno para pedidos y transporte. Haz pedidos y solicita transporte de forma fácil y segura con Qiero, la aplicación que simplifica tu vida cotidiana."
+          content="Qiero: Red social de servicios donde solucionas todo con un clic."
         />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       </Head>

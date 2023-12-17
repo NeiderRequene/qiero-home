@@ -14,9 +14,7 @@ const Hero = () => {
               Lo que quieras con <span className="text-violet-500">Qiero</span>
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Tu solución todo en uno para pedidos y transporte. Haz pedidos y
-              solicita transporte de forma fácil y segura con Qiero, la
-              aplicación que simplifica tu vida cotidiana.
+              Red social de servicios donde solucionas todo con un clic.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
