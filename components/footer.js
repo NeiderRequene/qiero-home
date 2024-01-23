@@ -35,6 +35,10 @@ export default function Footer() {
       name: "Política de privacidad",
       href: "/politica-de-privacidad",
     },
+    {
+      name: "Eliminar cuenta",
+      href: "/eliminar-cuenta",
+    },
   ];
   return (
     <div className="relative">
