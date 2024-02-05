@@ -3,5 +3,6 @@ module.exports = {
     locales: ["es"],
     defaultLocale: "es",
   },
-  output: "standalone",
+  reactStrictMode: false,
+  swcMinify: true,
 };
