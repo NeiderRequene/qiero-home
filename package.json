@@ -27,7 +27,6 @@
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.17",
     "@tailwindcss/aspect-ratio": "^0.4.2",
-    "aws-amplify": "^6.0.13",
     "axios": "^1.6.5",
     "next": "^13.3.1",
     "next-themes": "^0.2.1",
@@ -36,8 +35,6 @@
     "react-hook-form": "^7.43.9"
   },
   "devDependencies": {
-    "@aws-amplify/backend": "^0.7.0",
-    "@aws-amplify/backend-cli": "^0.9.7",
     "autoprefixer": "^10.4.14",
     "aws-cdk": "^2.126.0",
     "aws-cdk-lib": "^2.126.0",
