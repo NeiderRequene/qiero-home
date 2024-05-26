@@ -37,8 +37,8 @@ const Privacy = () => {
             número de teléfono.
           </li>
           <li className=" text-lg text-gray-500  dark:text-gray-300">
-            También recopilamos información sobre tus pedidos, historial de
-            compras y preferencias de usuario.
+            Además, recopilamos datos sobre tus pedidos, historial de compras y
+            preferencias de usuario.
           </li>
           <li className=" text-lg text-gray-500  dark:text-gray-300">
             Utilizamos tecnologías de seguimiento para recopilar información
@@ -51,11 +51,9 @@ const Privacy = () => {
         <ul class="ml-5 list-disc">
           <li className=" text-lg text-gray-500  dark:text-gray-300">
             Utilizamos tus datos para procesar pedidos, proporcionar servicios
-            de transporte y mejorar tu experiencia en la aplicación.
-          </li>
-          <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Tus datos también se utilizan para fines de facturación y para
-            comunicarnos contigo sobre tu cuenta.
+            de transporte y mejorar tu experiencia en la aplicación. Además,
+            utilizamos tus datos para fines de facturación y para comunicarnos
+            contigo sobre tu cuenta.
           </li>
         </ul>
         <p className="font-bold py-4 text-lg text-gray-500  dark:text-gray-300">
@@ -63,11 +61,9 @@ const Privacy = () => {
         </p>
         <ul class="ml-5 list-disc">
           <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Tu privacidad es importante para nosotros, y tomamos medidas para
-            proteger tus datos de acceso no autorizado.
-          </li>
-          <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Trabajamos con proveedores de servicios de confianza que siguen
+            Tu privacidad es fundamental para nosotros, y tomamos medidas para
+            proteger tus datos contra accesos no autorizados. Además,
+            colaboramos con proveedores de servicios de confianza que siguen
             prácticas de seguridad sólidas.
           </li>
         </ul>
@@ -76,12 +72,12 @@ const Privacy = () => {
         </p>
         <ul class="ml-5 list-disc">
           <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Podemos compartir tus datos con terceros, como proveedores de
-            transporte y tiendas, para cumplir con tus pedidos y solicitudes.
-          </li>
-          <li className=" text-lg text-gray-500  dark:text-gray-300">
-            No venderemos ni compartiremos tus datos personales con fines
-            publicitarios sin tu consentimiento.
+            En Qiero, tenemos la posibilidad de compartir tus datos con
+            terceros, como proveedores de transporte y tiendas, para garantizar
+            que se cumplan tus pedidos y solicitudes. Sin embargo, quiero
+            asegurarte que bajo ninguna circunstancia venderemos ni
+            compartiremos tus datos personales con fines publicitarios sin tu
+            consentimiento previo.
           </li>
         </ul>
         <p className="font-bold py-4 text-lg text-gray-500  dark:text-gray-300">
@@ -89,11 +85,13 @@ const Privacy = () => {
         </p>
         <ul class="ml-5 list-disc">
           <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Al utilizar Qiero, aceptas esta Política de Privacidad y otorgas tu
-            consentimiento para la recopilación y uso de tus datos personales.
-          </li>
-          <li className=" text-lg text-gray-500  dark:text-gray-300">
-            Puedes retirar tu consentimiento en cualquier momento, pero esto
+            Al utilizar Qiero, aceptas esta{" "}
+            <span className="font-bold">Política de Privacidad</span> y otorgas
+            tu consentimiento para la{" "}
+            <span className="font-bold">
+              recopilación y uso de tus datos personales
+            </span>
+            . Puedes retirar tu consentimiento en cualquier momento, pero esto
             puede afectar tu capacidad para utilizar la aplicación.
           </li>
         </ul>

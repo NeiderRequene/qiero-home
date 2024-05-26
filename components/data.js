@@ -1,7 +1,11 @@
 import {
-  FaceSmileIcon,
-  ChartBarSquareIcon,
-  CursorArrowRaysIcon,
+  ShoppingCartIcon,
+  TruckIcon,
+  UserGroupIcon,
+  GlobeAmericasIcon,
+  PresentationChartBarIcon,
+  PresentationChartLineIcon,
+  RocketLaunchIcon,
 } from "@heroicons/react/24/solid";
 
 import benefitOneImg from "../public/img/beneficios.svg";
@@ -13,19 +17,29 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "Comodidad",
-      desc: "Realiza pedidos y solicita transporte desde la comodidad de tu hogar o cualquier lugar, sin necesidad de desplazarte físicamente.",
-      icon: <FaceSmileIcon />,
+      title: "Conexión entre personas",
+      desc: "QUIERO enlaza a individuos que enfrentan desafíos o tienen soluciones para compartir. Puedes conectarte con personas afines y colaborar para resolver problemas cotidianos o complejos.",
+      icon: <UserGroupIcon />,
     },
     {
-      title: "Ahorro de tiempo",
-      desc: "Evita largas filas y desplazamientos innecesarios al hacer tus pedidos y solicitar transporte de manera rápida y eficiente.",
-      icon: <ChartBarSquareIcon />,
+      title: "Flexibilidad horaria y geográfica",
+      desc: "La aplicación no tiene restricciones de horario ni fronteras geográficas. Puedes acceder a ella en cualquier momento y desde cualquier lugar.",
+      icon: <GlobeAmericasIcon />,
     },
     {
-      title: "Asistencia 24/7",
-      desc: "Recibe soporte al cliente en cualquier momento, lo que te brinda la confianza de que siempre hay alguien disponible para ayudarte.",
-      icon: <CursorArrowRaysIcon />,
+      title: "Ampliación de conocimientos",
+      desc: "QUIERO ofrece oportunidades para aprender y crecer. Puedes descubrir nuevas perspectivas, habilidades y conocimientos al interactuar con otros usuarios.",
+      icon: <PresentationChartBarIcon />,
+    },
+    {
+      title: "Mejora económica",
+      desc: "Al resolver retos y compartir soluciones, puedes generar ingresos adicionales. QUIERO puede ser una fuente de oportunidades para mejorar tu economía personal.",
+      icon: <PresentationChartLineIcon />,
+    },
+    {
+      title: "Transformación personal",
+      desc: "Al participar en la comunidad de QUIERO, puedes experimentar un cambio positivo en tu vida. Desde pequeños logros hasta grandes avances, la aplicación puede ser un catalizador para el crecimiento personal.",
+      icon: <RocketLaunchIcon />,
     },
   ],
 };
@@ -35,14 +49,14 @@ const services = {
   image: serviceImg,
   bullets: [
     {
-      title: "Pedidos de Productos",
-      desc: "Permite a los usuarios realizar pedidos de una amplia variedad de productos, incluyendo alimentos, ropa, electrónicos, productos para el hogar y más, desde diversas tiendas y proveedores.",
-      icon: <FaceSmileIcon />,
+      title: "Pedidos de Productos y servicios",
+      desc: "Nuestra aplicación permite a los usuarios realizar pedidos de una amplia variedad de productos y servicios de todo tipo, incluyendo alimentos, ropa, electrónicos, artículos para el hogar y más.",
+      icon: <ShoppingCartIcon />,
     },
     {
-      title: "Transporte",
-      desc: "Facilita la solicitud de transporte, ya sea en forma de viajes privados o compartidos, para moverse por la ciudad de manera segura y eficiente.",
-      icon: <ChartBarSquareIcon />,
+      title: "Pedido de transporte",
+      desc: "El servicio de transporte facilita la solicitud de viajes privados o compartidos para moverse por la ciudad de manera segura y eficiente.",
+      icon: <TruckIcon />,
     },
   ],
 };
