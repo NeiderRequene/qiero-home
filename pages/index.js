@@ -30,9 +30,12 @@ const Home = () => {
         pretitle="Beneficios de Qiero"
         title="¿Por qué deberías usar Qiero?"
       >
-        Qiero es una aplicación que te ofrece comodidad, variedad y seguridad en
-        un solo lugar. Simplifica pedidos y transporte, ahorra tiempo, brinda
-        opciones personalizadas y garantiza transacciones seguras.
+        <span className="font-bold">QUIERO</span> es una innovadora plataforma
+        de comercio digital que trasciende horarios y fronteras. Ya sea que
+        enfrentes un desafío o poseas la solución, esta aplicación conecta a
+        individuos para resolver conjuntamente problemas cotidianos o complejos.
+        Ofrece una ventana a nuevas posibilidades para enriquecer tus
+        conocimientos y fortalecer tu economía, transformando tu vida.
       </SectionTitle>
       <Benefits data={benefitOne} />
 
@@ -41,10 +44,10 @@ const Home = () => {
         pretitle="Servicios"
         title="Conoce los servicios que te ofrecemos"
       >
-        Qiero ofrece una gama completa de servicios diseñados para simplificar
-        tu vida. Desde pedidos de productos a través de una variedad de tiendas
-        hasta transporte seguro y eficiente, nuestra aplicación te brinda
-        comodidad, seguridad y personalización.
+        <span className="font-bold">QUIERO</span> ofrece una amplia gama de
+        servicios diseñados para simplificar tu vida. Desde realizar pedidos de
+        productos y servicios, hasta acceder a un transporte seguro y eficiente,
+        nuestra aplicación te brinda comodidad, seguridad y personalización.
       </SectionTitle>
       <Benefits imgPos="right" data={services} />
 
@@ -53,10 +56,9 @@ const Home = () => {
         pretitle="Testimonios"
         title="Esto es lo que nuestros clientes dijeron"
       >
-        Descubre lo que nuestros usuarios dicen sobre su experiencia con Qiero.
-        Sus testimonios son la voz de la satisfacción y confianza que nuestra
-        aplicación brinda a diario. ¡Lee lo que tienen que decir y únete a la
-        comunidad de usuarios satisfechos!
+        Descubre lo que nuestros clientes están diciendo sobre su experiencia
+        con nosotros. Lee sus testimonios reales y únete a la comunidad de
+        satisfacción garantizada.
       </SectionTitle>
       <Testimonials />
       <SectionTitle
@@ -64,7 +66,7 @@ const Home = () => {
         pretitle="FAQ"
         title="Preguntas frecuentes"
       >
-        Aquí, te proporcionamos información detallada y soluciones a tus
+        En esta sección, encontrarás información detallada y soluciones para tus
         consultas sobre el funcionamiento de Qiero
       </SectionTitle>
       <Faq />
