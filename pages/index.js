@@ -30,7 +30,7 @@ const Home = () => {
         pretitle="Beneficios de Qiero"
         title="¿Por qué deberías usar Qiero?"
       >
-        <span className="font-bold">QUIERO</span> es una innovadora plataforma
+        <span className="font-bold">Qiero</span> es una innovadora plataforma
         de comercio digital que trasciende horarios y fronteras. Ya sea que
         enfrentes un desafío o poseas la solución, esta aplicación conecta a
         individuos para resolver conjuntamente problemas cotidianos o complejos.
@@ -44,7 +44,7 @@ const Home = () => {
         pretitle="Servicios"
         title="Conoce los servicios que te ofrecemos"
       >
-        <span className="font-bold">QUIERO</span> ofrece una amplia gama de
+        <span className="font-bold">Qiero</span> ofrece una amplia gama de
         servicios diseñados para simplificar tu vida. Desde realizar pedidos de
         productos y servicios, hasta acceder a un transporte seguro y eficiente,
         nuestra aplicación te brinda comodidad, seguridad y personalización.

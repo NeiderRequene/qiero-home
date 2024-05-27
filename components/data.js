@@ -18,7 +18,7 @@ const benefitOne = {
   bullets: [
     {
       title: "Conexión entre personas",
-      desc: "QUIERO enlaza a individuos que enfrentan desafíos o tienen soluciones para compartir. Puedes conectarte con personas afines y colaborar para resolver problemas cotidianos o complejos.",
+      desc: "Qiero enlaza a individuos que enfrentan desafíos o tienen soluciones para compartir. Puedes conectarte con personas afines y colaborar para resolver problemas cotidianos o complejos.",
       icon: <UserGroupIcon />,
     },
     {
@@ -28,17 +28,17 @@ const benefitOne = {
     },
     {
       title: "Ampliación de conocimientos",
-      desc: "QUIERO ofrece oportunidades para aprender y crecer. Puedes descubrir nuevas perspectivas, habilidades y conocimientos al interactuar con otros usuarios.",
+      desc: "Qiero ofrece oportunidades para aprender y crecer. Puedes descubrir nuevas perspectivas, habilidades y conocimientos al interactuar con otros usuarios.",
       icon: <PresentationChartBarIcon />,
     },
     {
       title: "Mejora económica",
-      desc: "Al resolver retos y compartir soluciones, puedes generar ingresos adicionales. QUIERO puede ser una fuente de oportunidades para mejorar tu economía personal.",
+      desc: "Al resolver retos y compartir soluciones, puedes generar ingresos adicionales. Qiero puede ser una fuente de oportunidades para mejorar tu economía personal.",
       icon: <PresentationChartLineIcon />,
     },
     {
       title: "Transformación personal",
-      desc: "Al participar en la comunidad de QUIERO, puedes experimentar un cambio positivo en tu vida. Desde pequeños logros hasta grandes avances, la aplicación puede ser un catalizador para el crecimiento personal.",
+      desc: "Al participar en la comunidad de Qiero, puedes experimentar un cambio positivo en tu vida. Desde pequeños logros hasta grandes avances, la aplicación puede ser un catalizador para el crecimiento personal.",
       icon: <RocketLaunchIcon />,
     },
   ],
