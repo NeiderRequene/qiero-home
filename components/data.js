@@ -54,7 +54,7 @@ const services = {
       icon: <ShoppingCartIcon />,
     },
     {
-      title: "Pedido de transporte.",
+      title: "Pedido de transporte",
       desc: "El servicio de transporte facilita la solicitud de viajes privados o compartidos para moverse por la ciudad de manera segura y eficiente.",
       icon: <TruckIcon />,
     },
